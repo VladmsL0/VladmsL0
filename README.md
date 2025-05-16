@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я VladmsL0 👋</h1>
+<h1 align="center">Привет, я msL 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Java+%2F+Python+разработчик;Создаю+плагины+для+Minecraft;Активен+на+SpigotMC;Люблю+открытый+код+и+автоматизацию" />
@@ -52,8 +52,7 @@
 ## 📫 Связь со мной
 
 - 🧱 [SpigotMC профиль](https://www.spigotmc.org/resources/infernoauth.117199/)
-- ✉️ Почта: *(укажи, если хочешь)*
-<h1 align="center">Привет, я VladmsL0 👋</h1>
+<h1 align="center">Привет!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Java+%2F+Python+разработчик;Создаю+плагины+для+Minecraft;Активен+на+SpigotMC;Люблю+открытый+код+и+автоматизацию" />
